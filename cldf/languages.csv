@@ -1,6 +1,6 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-191,Doka,doka1242,Doka,dbi,Africa,10.2287,7.96099,Atlantic-Congo
-247,Lungu (Idun),idun1241,Idun,ldb,Africa,9.12585,7.77525,Atlantic-Congo
+191,Doka,doka1242,Ejuele,dbi,Africa,10.2287,7.96099,Atlantic-Congo
+247,Lungu (Idun),idun1241,Dũya,ldb,Africa,9.12585,7.77525,Atlantic-Congo
 296,Nkwen Mandankwe (Mendankwe-Nkwen),mend1261,Mendankwe-Nkwen,mfd,Africa,6.00034,10.2307,Atlantic-Congo
 295,Nkwen (Mendankwe-Nkwen),mend1261,Mendankwe-Nkwen,mfd,Africa,6.00034,10.2307,Atlantic-Congo
 208,Alege,aleg1238,Alege,alf,Africa,6.59423,9.00394,Atlantic-Congo
@@ -11,7 +11,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 275,Akunakuna of Thomas (Agwagwune),agwa1247,Agwagwune,yay,Africa,5.81055,8.03166,Atlantic-Congo
 237,Kamuku of Rowlands (Cinda-Regi-Tiyal),cind1241,Yara,cdr,Africa,10.3419,5.84212,Atlantic-Congo
 243,Janji,janj1240,Janji,jni,Africa,10.1197,8.63029,Atlantic-Congo
-189,Sheni,shen1250,Sheni,scv,Africa,10.5256,8.63921,Atlantic-Congo
+189,Sheni,shen1251,Sheni-Ziriya,scv,Africa,10.52559,8.63921,Atlantic-Congo
 229,Kom,komc1235,Kom (Cameroon),bkm,Africa,6.2596,10.3348,Atlantic-Congo
 267,Jibu,jibu1239,Jibu,jib,Africa,7.49214,11.3086,Atlantic-Congo
 268,Jibu in Meek (Jibu),jibu1239,Jibu,jib,Africa,7.49214,11.3086,Atlantic-Congo
@@ -24,13 +24,13 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 311,Mbo Central (Bakaka),baka1273,Bakaka,bqz,Africa,4.79991,9.80402,Atlantic-Congo
 200,Tyap,tyap1238,Tyap,kcg,Africa,9.75568,8.3082,Atlantic-Congo
 262,Sholio (Tyap),tyap1238,Tyap,kcg,Africa,9.75568,8.3082,Atlantic-Congo
-249,Vaghat (Vaghat-Ya-Bijim-Legeri),vagh1247,Vaghat-Ya-Bijim-Legeri,bij,Africa,9.64648,9.56547,Atlantic-Congo
-250,Ya (Vaghat-Ya-Bijim-Legeri),vagh1247,Vaghat-Ya-Bijim-Legeri,bij,Africa,9.64648,9.56547,Atlantic-Congo
+249,Vaghat (Vaghat-Ya-Bijim-Legeri),,,bij,,,,
+250,Ya (Vaghat-Ya-Bijim-Legeri),,,bij,,,,
 186,Amo,amoo1242,Amo,amo,Africa,10.3229,8.65405,Atlantic-Congo
 228,Meta',meta1238,Meta',mgo,Africa,5.88942,9.87416,Atlantic-Congo
 220,Kiong,kion1242,Kiong,kkm,Africa,5.20497,8.35234,Atlantic-Congo
 233,Mungaka,mung1266,Mungaka,mhk,Africa,5.89752,10.0294,Atlantic-Congo
-194,Cori,cori1240,Cori,cry,Africa,9.59,8.06,Atlantic-Congo
+194,Cori,cori1240,Kyoli,cry,Africa,9.59,8.06,Atlantic-Congo
 308,Shu Pamen (Bamun),bamu1253,Bamun,bax,Africa,5.49017,10.8477,Atlantic-Congo
 193,Shamang,sham1277,Shamang,xsh,Africa,9.47,8.05163,Atlantic-Congo
 264,Eregba (Kpan),kpan1246,Kpan,kpk,Africa,7.58343,10.1642,Atlantic-Congo
@@ -98,7 +98,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 203,Tarok,taro1263,Tarok,yer,Africa,8.98356,10.0288,Atlantic-Congo
 248,Hyam of Nok (Hyam),hyam1245,Hyam,jab,Africa,9.57832,7.95163,Atlantic-Congo
 235,Hasha,hash1238,Hasha,ybj,Africa,9.14063,8.66137,Atlantic-Congo
-198,Ake,akee1238,Ake,aik,Africa,8.59543,8.75768,Atlantic-Congo
+198,Ake,akee1238,Akye,aik,Africa,8.59543,8.75768,Atlantic-Congo
 299,Yemba Bafou 1 (Yemba),yemb1246,Yemba,ybb,Africa,5.47421,10.0214,Atlantic-Congo
 300,Yemba Bafou 2 (Yemba),yemb1246,Yemba,ybb,Africa,5.47421,10.0214,Atlantic-Congo
 182,Fungwa,fung1245,Fungwa,ula,Africa,10.5021,6.59138,Atlantic-Congo
@@ -108,7 +108,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 190,Kuturmi,kutu1262,Kuturmi,khj,Africa,10.1485,7.96524,Atlantic-Congo
 210,Anaang,anaa1238,Anaang,anw,Africa,4.94832,7.57969,Atlantic-Congo
 307,Ndanda (Nda'nda'),ndan1241,Nda'nda',nnz,Africa,5.14715,10.3942,Atlantic-Congo
-202,Eloyi,eloy1241,Eloyi,afo,Africa,8.24696,7.97061,Atlantic-Congo
+202,Eloyi,eloy1241,Ajiri,afo,Africa,8.24696,7.97061,Atlantic-Congo
 289,Nkem (Nkem-Nkum),nkem1242,Nkem-Nkum,isi,Africa,6.59158,8.68668,Atlantic-Congo
 290,Nkum (Nkem-Nkum),nkem1242,Nkem-Nkum,isi,Africa,6.59158,8.68668,Atlantic-Congo
 211,Efik,efik1245,Efik,efi,Africa,4.89379,8.38121,Atlantic-Congo

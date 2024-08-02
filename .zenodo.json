@@ -7,10 +7,23 @@
     ],
     "creators": [
         {
-            "name": "Robert Forkel"
+            "name": "Kay Williamson"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Robert Forkel",
+            "type": "Other"
+        },
+        {
+            "name": "Christoph Rzymski",
+            "type": "Editor"
+        },
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"

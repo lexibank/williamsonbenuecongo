@@ -1,5 +1,8 @@
 # Contributors
 
-Name | GitHub user | Role
- --- | --- | --- 
-Robert Forkel | @xrotwang | maintainer
+Name               | GitHub user  | Description                                 | Role
+---                | ---          | ---                                         | ---
+Robert Forkel      |              | code                                        | Other
+Christoph Rzymski  | @chrzyki     | patron                                      | Editor
+Tiago Tresoldi     | @tresoldi    | profile                                     | Other
+Kay Williamson     |              | author                                      | Author
